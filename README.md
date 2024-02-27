@@ -1,4 +1,4 @@
-Olá a todos, meu nome é João Vitor Soares e sou formado em Desenvolvimento de Sistemas pelo SENAI. Atualmente, estou cursando a graduação em Análise e Desenvolvimento de Sistemas na UNA Betim. Ao longo dos anos, adquiri habilidades e conhecimentos em programação, desenvolvimento de software e outras áreas relacionadas à tecnologia da informação. Estou entusiasmado em continuar aprendendo e me desenvolvendo profissionalmente na minha carreira em TI.
+Olá a todos! 👋 Sou João Vitor Soares, formado em Desenvolvimento de Sistemas pelo SENAI. Atualmente, estou na jornada acadêmica, cursando Análise e Desenvolvimento de Sistemas na UNA Betim. Ao longo dos anos, aprimorei habilidades em programação e desenvolvimento de software, mergulhando na vasta área da tecnologia da informação. Estou animado para continuar aprendendo e crescer profissionalmente na minha carreira em TI. 🚀 #TechLover #Desenvolvedor #AprendizadoContínuo
 
 <hr>
 Conhecimentos:
