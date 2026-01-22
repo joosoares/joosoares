@@ -1,6 +1,10 @@
-Olá, pessoal! 👋 Meu nome é João Vitor Soares. Sou formado como Técnico em Desenvolvimento de Sistemas pelo SENAI e em Análise e Desenvolvimento de Sistemas pela UNA Betim. Com uma base acadêmica sólida e experiência prática, desenvolvi habilidades em programação e desenvolvimento de software, com interesse especial em tecnologias back-end e sistemas distribuídos. Sou apaixonado por criar soluções eficientes e escaláveis, sempre buscando aprimorar meus conhecimentos técnicos.
+Sou desenvolvedor de software, formado em Análise e Desenvolvimento de Sistemas, com experiência prática em tecnologia e foco na construção de soluções organizadas, eficientes e sustentáveis. Tenho interesse em desenvolvimento back-end, trabalhando com lógica de negócio, estruturação de sistemas e boas práticas de programação.
 
+Minha trajetória inclui atuação em suporte técnico e operações de sistemas, o que me proporcionou uma visão sólida sobre estabilidade, manutenção e usabilidade de aplicações. Essa experiência influencia diretamente minha forma de desenvolver software, priorizando código claro, confiável e fácil de manter.
+
+Atuo com Python, PHP e fundamentos de Front-end, buscando evolução constante e aplicação de padrões que contribuam para soluções escaláveis e alinhadas às necessidades reais dos usuários e do negócio.
 <hr>
+
 Skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
