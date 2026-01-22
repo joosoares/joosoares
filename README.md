@@ -1,4 +1,3 @@
-Sou desenvolvedor de software, formado em Análise e Desenvolvimento de Sistemas, com experiência prática em tecnologia e foco na construção de soluções organizadas, eficientes e sustentáveis. Tenho interesse em desenvolvimento back-end, trabalhando com lógica de negócio, estruturação de sistemas e boas práticas de programação.
 
 Minha trajetória inclui atuação em suporte técnico e operações de sistemas, o que me proporcionou uma visão sólida sobre estabilidade, manutenção e usabilidade de aplicações. Essa experiência influencia diretamente minha forma de desenvolver software, priorizando código claro, confiável e fácil de manter.
 
@@ -17,7 +16,7 @@ Skills:
 
 Social media: 
 <div>                                                                                       
-  <a href="[https://instagram.com/joaovitor.soares_](https://www.instagram.com/joao_vitor_soares._?igsh=MWh0d3JsYTZ4bmJheA%3D%3D&utm_source=qr)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="[[https://instagram.com/joaovitor.soares_](https://www.instagram.com/joao_vitor_soares._)](https://www.instagram.com/joao_vitor_soares._?igsh=MWh0d3JsYTZ4bmJheA%3D%3D&utm_source=qr)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:familiajoaovitorsoares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-soares-a26b62254/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
